@@ -76,6 +76,9 @@ a:hover {
     font-size: 18px;
     font-weight: bold;
 }
+.btn-active {
+    background: #000 !important;
+}
 table {
     margin-bottom: 25px;
 }
