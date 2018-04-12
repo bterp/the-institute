@@ -16,6 +16,6 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## Help
 
-* [Set up Git] (https://help.github.com/articles/set-up-git/) - user documentation
-* [Cloning a Repository] (https://help.github.com/articles/cloning-a-repository/) - user documentation
-* [Git Cheat Sheet] (https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) - downloadable .PDF
+* [Set up Git](https://help.github.com/articles/set-up-git/) - user documentation
+* [Cloning a Repository](https://help.github.com/articles/cloning-a-repository/) - user documentation
+* [Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) - downloadable .PDF
