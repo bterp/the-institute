@@ -13,3 +13,9 @@ Redevelopment and design for The Institute at Wilkes University. The Institute p
 * **Brittany Terpstra** - **Joshua Bonner**
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## Help
+
+* [Set up Git] (https://help.github.com/articles/set-up-git/) - user documentation
+* [Cloning a Repository] (https://help.github.com/articles/cloning-a-repository/) - user documentation
+* [Git Cheat Sheet] (https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) - downloadable .PDF
